@@ -82,6 +82,8 @@ const ProductsContainer = styled.div`
   width: 60%;
   text-align: center;
   margin: auto;
+  margin-bottom: 20px;
+
   padding: 0px 15px;
   @media only screen and (max-width: 1050px) {
     width: 75%;
