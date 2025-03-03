@@ -234,6 +234,12 @@ export const  arr=[
       image:'nba-team.jpg',
       countInCart:0
     },
+    {
+      name:'SuperHero BodyGuards',
+      price: 2121111111,
+      image:'bodyguard.png',
+      countInCart:0
+    },
   
   
   ]
