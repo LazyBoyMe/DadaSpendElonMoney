@@ -237,7 +237,7 @@ export const  arr=[
     {
       name:'SuperHero BodyGuards',
       price: 2121111111,
-      image:'bodyguard.png',
+      image:'thor-iron-man-marvel-comics-marvel-cinematic-universe-comic-book-avangers-d09d5c855b7f36576a1cdf2b6cf9a800.png',
       countInCart:0
     },
   
